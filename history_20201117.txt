@@ -1,0 +1,369 @@
+echo
+echo Hello world
+echo "Hello world"
+echo Hello ; echo hello2
+echo "Hello ; echo hello2"
+echo 'Hello ; echo hellow2'
+echo $SHELL
+echo "$SHELL"
+history
+`date`
+echo `date`
+history
+echo $SHELL
+echo atehola hola
+echo `date`
+echo `echo $(date)`
+echo $(date)
+echo "World\
+is nice\
+and so on"
+echo 'this is\
+another "\
+one'
+echo "this is \
+single'"
+echo "world \\
+is on the same line"
+echo "lkdnfsf\
+\
+\
+"
+echo "This is \n new line"
+echo "This is \t new line"
+echo this ; echo that
+echo this ; echo of echo
+echo this  echo of echo
+echo "This dolla sign \$SHEL
+echo this that ; echo that
+cat/proc/cpuinfo
+cat /proc/cpuinfo
+cat /etc/os-release
+cd Documents
+cd 
+cd
+cd 
+cd Data/shell
+cd ../
+cd ../../
+cd
+cd Data/Shell
+cd Data/shell
+cd -
+cd Data/shell
+cat Text_example.txt
+cat -n Text_example.txt
+cat --number Text_example.txt
+cat --number Text_example.txt Text_example.txt 
+cd
+cat ./Data/shell
+cat ./Data Data/shell/Text_example.txt
+cd Data/
+pwd
+cd
+pwd
+cat/home/dsc/Data/shell/Text_example.txt
+cat /home/dsc/Data/shell/Text_example.txt
+cat -n /home/dsc/Data/shell/Text_example.txt
+ls
+cd Data
+ls
+cd Data/challenge
+cd challenge
+ls
+ls Documents
+cd
+ls Documents
+ls
+ls anaconda3
+cd anaconda3
+ls-1
+ls -1
+ls -s
+ ls -1-s
+ls -q1 -s
+ls -s -1
+ls -1s
+cd
+ls
+ls -a
+cd ./
+cd .
+ls -a
+ls -l
+ls -la
+touch file00
+ls file00
+ls -l file00
+chmod u+x,g-w,o+w file00
+ls -l file00
+rwx = 101 = 2(2)*1 +2(1)*0 +2(0)*1 = 5
+chmod 777 file00
+ls -l file00
+chmod 770 file00
+ls -l file00
+mkdir my_first_dir
+ls -l
+mkdir my_first_dir
+mkdir my_first_dir2 my_first_dir3
+ls -l
+mkdir my_second dir/uno
+mkdir -p my_second_dir/uno
+rm file00
+rm my_first_dir
+rm -r my_first_dir3
+rm -r my_first_dir2
+rm -r my_first_dir
+ls
+ls -l
+ls
+mkdir my_second dir/uno
+mkdir my_first_dir
+ls -l
+mkdir first_dir
+ls -l
+touch text_file.txt
+ls -l
+mv text_file.txt first_dir
+ls -l
+my_first dir
+ls my_first_dit
+ls my_first_dir
+ls -l 
+cd my_first_dir
+ls -l
+cd
+cd first dir
+cd first_dir
+ls -l
+cd
+ls -l
+mv text_file.txt first_dir
+cd first_dir
+ls
+ls -l
+chmod g+x,w+o text_file.txt
+chmod g+x,o+w text_file.txt
+ls
+ls -l
+cd
+git
+git config --global user.name "Alberto J"
+git config --global user.email "albertojimenez81@gmail.com"
+cat .gitconfig
+gitedit .gitconfig
+gedit .gitconfig
+echo Hello world
+echo "Hello world"
+echo 'Hello world'
+echo Hello ; echo ,world
+echo "Hello ; echo Hello2"
+echo 'Hello ; echo Hello2'
+echo $shell
+echo $SHELL
+echo $TERM
+whoami
+echo $HOST
+echo $USER
+printenv
+printenv USER
+printenv HOST
+echo "$shell"
+echo "Hola"
+echo "$SHELL"
+echo $SHELL
+echo '$SHELL'
+echo 'Hola'
+echo "Hola"
+echo $Hola
+echo 'date'
+echo "date"
+echo $date
+echo $(date)
+echo `date`
+echo "World \\
+is mine"
+echo "World \\
+is nice \\
+and beautiful\
+"
+echo "World\
+is nice\
+and prompt\
+"
+echo "World \\
+is nice\\
+and prompt\
+"
+echo "World \\
+is nice \\
+and prompt\
+"
+echo 'this is \\
+'
+echo "this is \\
+another" \\
+future"\
+\\
+\
+'\
+"
+echo "this is \\
+single '\\
+"
+echo this is backslash \\ 
+echo hola
+echo "this is backslash \\\
+"
+echo "this is backslash\\\
+"
+clear
+history
+clear
+pwd
+mkdir git
+ls -l
+cd git
+echo "# shell" >> README.md
+git init
+ls
+ll
+pwd
+ls -lrt
+git add README.md
+git status
+git commit -m "first commit adding README.md"
+git branch -M main
+git branch -M master
+git status
+git remote add origin https://github.com/alji81/shell.git
+git push -u origin master
+echo "# shell" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git status
+git remote add origin https://github.com/alji81/shell.git
+git push -u origin main
+cd..
+cd
+ls -l
+man ls
+cd dataopentraveldata
+cd..
+cd
+cd Data
+cd opentraveldata
+ls
+ll
+head -n 10 optd_aircraft.csv
+cd..
+cd
+ll
+cd Data
+cd opentraveldata
+ll
+less optd_aircraft.csv
+less optd_airlines.csv
+cd Data
+cd opentraveldata
+cd..
+cd
+cd data
+cd Data
+cd shell
+cd directory
+ll
+Finn.txt
+cd Finn.txt
+less Finn.txt
+cd Data
+cd..
+cd
+cd Data/opentraveldata
+ll
+cd optd_aircraft.csv
+less optd_aircraft.csv
+cd Data/shell
+cd
+cd Data/shell
+ll
+cd
+bash
+ll
+exit
+cd
+ll
+which ll
+ds
+cd
+cd..
+cd
+clear
+echo "Hola mundo"
+echo "Hola mundo" > pp.txt
+head pp.txt
+echo "Hola mundo" >> pp.txt
+head pp.txt
+echo "Adios mundo" > pp.txt
+head pp.txt
+echo "Hola mundo" >> pp.txt
+head pp.txt
+exit
+ls -l
+ls -lrth
+cat hello-world
+touch pp.txt
+echo ""> pp2.txt
+ls -l
+gedit pp3.txt
+echo $HISTFILE
+tail -n 3 /home/dsc.history
+tail -n 5 /home/dsc.history
+ls
+less
+ls -s
+ls -s /home/dsc/.history
+ll $HISTFILE
+mkdir folder1
+mkdir folder2
+touch folder1/one
+touch folder2/two
+rsync -avz folder1/one folder2
+ll folder2
+ll folder1
+echo "first line">>folder1/one
+head folder1/one
+head folder2/one
+rsync -avz folder1/one folder2
+head folder2/one
+clear
+touch folder1/oneB
+rsync -avz folder1/one folder2
+ll folder2
+touch folder2/three
+ll folder2
+ll folder1
+rsync -avz folder1 folder2
+ll folder1
+ll folder2
+rsync -avz folder1/ folder2
+ll folder1
+ll folder2
+rm -r folder2/folder1
+ll folder1
+ll folder2
+clear
+ls folder1
+ls folder2
+cd..
+cd
+cd git
+ll
+cp/home/dsc/.history history:20201117.txt
+ll
+/.history history:20201117.txt
+ls -a
+cp/home/dsc/.history history_20201117.txt
+cp /home/dsc/.history history_20201117.txt
