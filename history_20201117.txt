@@ -367,3 +367,330 @@ ll
 ls -a
 cp/home/dsc/.history history_20201117.txt
 cp /home/dsc/.history history_20201117.txt
+ls
+ls -l
+ls -a
+ls -l
+git status
+git add history_20201117.txt
+git commit -m "added my first file"
+pwd
+git push origin master
+ll
+git status
+history -i
+man history
+history -n 2
+history -n
+history -f
+cd..
+cd ..
+cd
+ls -l
+cd Data
+ls -l
+cd shell
+ll
+wc Text_example.txt
+head -n 8 Text_example.txt
+wc -w Text_example.txt
+wc -l Text_example.txt
+wc -m Text_example.txt
+clear
+echo "hola" | wc
+echo -n "hola" | wc
+cat Text_example.txt | wc
+cat Text_example.txt | wc-l
+cat Text_example.txt | wc -l
+wc -m Text_example.txt
+wc Text_example.txt
+tail -c -1k optd_aircraft.csv | wc
+tail -c -1k optd_aircraft.csv|wc
+ll
+cd Data
+cd Data/
+cd Data
+ll
+cd ..
+ll
+cd Data/shell
+cd Data/shell/
+cd /shell
+cd /shell/
+cd shell
+tail -c -1k optd_aircraft.csv|wc
+cd ..
+ll
+cd Data
+cd shell
+tail -c -1k optd_aircraft.csv|wc
+head -c -1k optd_aircraft.csv |wc
+ll
+cd 
+cd Data
+tail -c -1k optd_aircraft.csv|wc
+ll
+cd opentraveldata
+tail -c -1k optd_aircraft.csv|wc
+head -c -1k optd_aircraft.csv |wc
+cleatr
+clear
+cd
+cd ..
+cd
+cd ..
+ll
+cd
+ll
+cd Data
+ll
+cd opentraveldata
+ll
+ls
+ll
+ls -lrt
+ll 2
+ll -n 2
+head -n 2
+ls -lrt | tail -n 1
+ls -s | tail -n 1
+ls -sS | tail -n 1
+ls -ss
+ls -sSlr
+ls -sSl
+ls -s | tail -n 1
+ls -sSl | tail -n 1
+ls -sSl | tail -n 2
+ls -sSl
+ls -sSlr
+ls -sSlr | tail -n 1
+ls -sSlr | tail -n 1 > largest_file.txt
+cd Data/shell
+cd
+cd Data/shell
+ll
+cd Text_example.txt
+cat largest_file.txt
+cd
+cat largest_file.txt
+ls -sSlr | tail -n 1
+ls -sSlr | tail -n 1 > largest_file.txt
+ls -sSl
+cd Data/shell
+ll
+ls -sSlr | tail -n 1 
+head -n 5 Data/shell/Finn.txt | wc -w
+head -n 5 Data/shell/Finn.txt
+head Finn.txt
+head -n 5 Finn.txt | wc -w
+cd
+cat -n Data/shell/Finn.txt | head -n 3
+clear
+cd Data
+ll
+cd shell
+ll
+cp Text_example.txt 
+cp help
+cd  --help
+cp --help
+clear
+cp Text_file.txt Data/shell
+echo "Text_file.txt"
+cd
+cd git
+pwd
+ls -lrt
+cat home/dsc/git/.history|grep cp
+cat  /.history|grep cp
+ls
+ls -l
+cat homw/dsc/git/.history|grep cp
+cp $HISFILE history_20201117.txt
+ll
+cp home/dsc/git/.history history_20201117.txt
+cp /.history history_20201117.txt
+ll
+exit
+echo Hello World
+echo "Hello world"
+echo Hello; echo world
+echo "Hello; echo world"
+echo Hello; "echo world"
+echo $shell
+echo "$shell"
+echo date
+echo "date"
+echo 'date'
+echo $date
+echo $(date)
+echo $SHELL
+echo "hola hola $(date)"
+echo 'hola hola date'
+echo 'date'
+echo "date"
+echo `date`
+echo $date
+echo $(date)
+echo "date"
+echo 'this is\
+another'
+echo 'this is\ another'
+echo 'this is | another'
+echo "this is another"
+echo "this is \another"
+echo "this is \ another"
+echo "this is \n another"
+echo "this is \t another"
+echo this \; echo that
+echo "this \; echo that"
+cat /proc/cpuinfo
+cat -n /proc/cpuinfo
+cat /etc/os-release
+cat -n/etc/os-release
+cat -n /etc/os-release
+cd
+cd 
+cd Data
+ll
+cd Data/ 
+ll
+cd shellç
+cd shell
+ll
+cd ..
+ll
+cd shell
+cd ../
+cd
+cd Data/shell
+cd
+cd -
+cd
+cd -
+cd
+cd Data
+cd
+cd -
+bash
+pwd
+exit
+cd 
+pwd
+$SHELL
+cd 
+cd Data/
+cd shell
+l
+cd Fi
+exit
+exit
+cd Data/shell
+ll
+cat Text_example.txt
+cat -n
+cd Data/shell
+cat -nTex
+cat -n Text_example.txt
+cat Text_example.txt 
+cat -n Text_example.txt Text_example.txt
+cd
+cat -n Data/shell
+cat Data/
+cat ./Data
+cat /Data/shell
+cd Data
+ll
+cd
+cat Data/  
+cat Data/shell/
+cat Data/shell/Text_example.txt
+cat -n/ Data/shell/Text_example.txt
+cat -n /Data/shell/Text_example.txt
+cat ./Data/shell/Text_example.txt
+cat ~Data/shell/Text_example.txt
+cat ~/Data/shell/Text_example.txt
+cat ./Data/shell/Text_example.txt
+cd Data
+cat ./Data/shell/Text_example.txt
+cat ~Data/shell/Text_example.txt
+pwd
+cat /home/dsc/Data/shell/Text_example.txt
+cat-n /home/dsc/Data/shell/Text_example.txt
+cat -n /home/dsc/Data/shell/Text_example.txt
+clear
+echo "Hola mundo"
+echo "Hola mundo" > pp.txt
+ll
+head pp.txt
+echo "Hola mundo" >> pp.txt
+head pp.txt
+echo "Adios" > pp.txt
+head pp.txt
+echo "Hola mundo" >> pp.txt
+head pp.txt
+touch pp2.txt
+ll
+cat pp.txt
+cat pp2.txt
+head pp2.txt
+head pp.txt
+cp pp.txt >> pp2.txt
+ll
+pp.txt >> pp2.txt
+cat pp.txt
+cat pp2.txt
+echo "Hola feo" >> pp2.txt
+head pp2.txt
+cp pp.txt >> pp2.txt
+clear
+cd
+head pp2.txt
+cat pp2.txt
+cd Data
+head pp2.txt
+cd Data
+cat pp2.txt
+gedit pp3.txt
+ll
+cat pp3.txt
+cat -n pp3.txt
+clear
+cd
+echo $HISFILE
+echo $HISTFILE
+tail -n 5 /home/dsc/.history
+tail n 5 /home/dsc/.history
+ll
+ls -s
+ls -s ./history
+ls -s ~/history
+man
+ls -s
+ls -s /home/dsc/.history
+ls -s ~/.history
+ls -a
+ls -l
+ls -s ~/.history
+mkdir folder1
+ll
+cd folder1
+ll
+clear
+echo "firsto line" >> folder1/one
+cd
+echo "firsto line" >> folder1/one
+head folder1/one
+head folder2/one
+rsync -avz folder1/one folder2
+head folder2/one
+ll
+cd folder1
+ll
+cd ..
+cd folder2
+ll
+cd
+cd git
+ll
+cp ~/.history history_20201117.txt
