@@ -1,0 +1,1501 @@
+echo
+echo Hello world
+echo "Hello world"
+echo Hello ; echo hello2
+echo "Hello ; echo hello2"
+echo 'Hello ; echo hellow2'
+echo $SHELL
+echo "$SHELL"
+history
+`date`
+echo `date`
+history
+echo $SHELL
+echo atehola hola
+echo `date`
+echo `echo $(date)`
+echo $(date)
+echo "World\
+is nice\
+and so on"
+echo 'this is\
+another "\
+one'
+echo "this is \
+single'"
+echo "world \\
+is on the same line"
+echo "lkdnfsf\
+\
+\
+"
+echo "This is \n new line"
+echo "This is \t new line"
+echo this ; echo that
+echo this ; echo of echo
+echo this  echo of echo
+echo "This dolla sign \$SHEL
+echo this that ; echo that
+cat/proc/cpuinfo
+cat /proc/cpuinfo
+cat /etc/os-release
+cd Documents
+cd 
+cd
+cd 
+cd Data/shell
+cd ../
+cd ../../
+cd
+cd Data/Shell
+cd Data/shell
+cd -
+cd Data/shell
+cat Text_example.txt
+cat -n Text_example.txt
+cat --number Text_example.txt
+cat --number Text_example.txt Text_example.txt 
+cd
+cat ./Data/shell
+cat ./Data Data/shell/Text_example.txt
+cd Data/
+pwd
+cd
+pwd
+cat/home/dsc/Data/shell/Text_example.txt
+cat /home/dsc/Data/shell/Text_example.txt
+cat -n /home/dsc/Data/shell/Text_example.txt
+ls
+cd Data
+ls
+cd Data/challenge
+cd challenge
+ls
+ls Documents
+cd
+ls Documents
+ls
+ls anaconda3
+cd anaconda3
+ls-1
+ls -1
+ls -s
+ ls -1-s
+ls -q1 -s
+ls -s -1
+ls -1s
+cd
+ls
+ls -a
+cd ./
+cd .
+ls -a
+ls -l
+ls -la
+touch file00
+ls file00
+ls -l file00
+chmod u+x,g-w,o+w file00
+ls -l file00
+rwx = 101 = 2(2)*1 +2(1)*0 +2(0)*1 = 5
+chmod 777 file00
+ls -l file00
+chmod 770 file00
+ls -l file00
+mkdir my_first_dir
+ls -l
+mkdir my_first_dir
+mkdir my_first_dir2 my_first_dir3
+ls -l
+mkdir my_second dir/uno
+mkdir -p my_second_dir/uno
+rm file00
+rm my_first_dir
+rm -r my_first_dir3
+rm -r my_first_dir2
+rm -r my_first_dir
+ls
+ls -l
+ls
+mkdir my_second dir/uno
+mkdir my_first_dir
+ls -l
+mkdir first_dir
+ls -l
+touch text_file.txt
+ls -l
+mv text_file.txt first_dir
+ls -l
+my_first dir
+ls my_first_dit
+ls my_first_dir
+ls -l 
+cd my_first_dir
+ls -l
+cd
+cd first dir
+cd first_dir
+ls -l
+cd
+ls -l
+mv text_file.txt first_dir
+cd first_dir
+ls
+ls -l
+chmod g+x,w+o text_file.txt
+chmod g+x,o+w text_file.txt
+ls
+ls -l
+cd
+git
+git config --global user.name "Alberto J"
+git config --global user.email "albertojimenez81@gmail.com"
+cat .gitconfig
+gitedit .gitconfig
+gedit .gitconfig
+echo Hello world
+echo "Hello world"
+echo 'Hello world'
+echo Hello ; echo ,world
+echo "Hello ; echo Hello2"
+echo 'Hello ; echo Hello2'
+echo $shell
+echo $SHELL
+echo $TERM
+whoami
+echo $HOST
+echo $USER
+printenv
+printenv USER
+printenv HOST
+echo "$shell"
+echo "Hola"
+echo "$SHELL"
+echo $SHELL
+echo '$SHELL'
+echo 'Hola'
+echo "Hola"
+echo $Hola
+echo 'date'
+echo "date"
+echo $date
+echo $(date)
+echo `date`
+echo "World \\
+is mine"
+echo "World \\
+is nice \\
+and beautiful\
+"
+echo "World\
+is nice\
+and prompt\
+"
+echo "World \\
+is nice\\
+and prompt\
+"
+echo "World \\
+is nice \\
+and prompt\
+"
+echo 'this is \\
+'
+echo "this is \\
+another" \\
+future"\
+\\
+\
+'\
+"
+echo "this is \\
+single '\\
+"
+echo this is backslash \\ 
+echo hola
+echo "this is backslash \\\
+"
+echo "this is backslash\\\
+"
+clear
+history
+clear
+pwd
+mkdir git
+ls -l
+cd git
+echo "# shell" >> README.md
+git init
+ls
+ll
+pwd
+ls -lrt
+git add README.md
+git status
+git commit -m "first commit adding README.md"
+git branch -M main
+git branch -M master
+git status
+git remote add origin https://github.com/alji81/shell.git
+git push -u origin master
+echo "# shell" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git status
+git remote add origin https://github.com/alji81/shell.git
+git push -u origin main
+cd..
+cd
+ls -l
+man ls
+cd dataopentraveldata
+cd..
+cd
+cd Data
+cd opentraveldata
+ls
+ll
+head -n 10 optd_aircraft.csv
+cd..
+cd
+ll
+cd Data
+cd opentraveldata
+ll
+less optd_aircraft.csv
+less optd_airlines.csv
+cd Data
+cd opentraveldata
+cd..
+cd
+cd data
+cd Data
+cd shell
+cd directory
+ll
+Finn.txt
+cd Finn.txt
+less Finn.txt
+cd Data
+cd..
+cd
+cd Data/opentraveldata
+ll
+cd optd_aircraft.csv
+less optd_aircraft.csv
+cd Data/shell
+cd
+cd Data/shell
+ll
+cd
+bash
+ll
+exit
+cd
+ll
+which ll
+ds
+cd
+cd..
+cd
+clear
+echo "Hola mundo"
+echo "Hola mundo" > pp.txt
+head pp.txt
+echo "Hola mundo" >> pp.txt
+head pp.txt
+echo "Adios mundo" > pp.txt
+head pp.txt
+echo "Hola mundo" >> pp.txt
+head pp.txt
+exit
+ls -l
+ls -lrth
+cat hello-world
+touch pp.txt
+echo ""> pp2.txt
+ls -l
+gedit pp3.txt
+echo $HISTFILE
+tail -n 3 /home/dsc.history
+tail -n 5 /home/dsc.history
+ls
+less
+ls -s
+ls -s /home/dsc/.history
+ll $HISTFILE
+mkdir folder1
+mkdir folder2
+touch folder1/one
+touch folder2/two
+rsync -avz folder1/one folder2
+ll folder2
+ll folder1
+echo "first line">>folder1/one
+head folder1/one
+head folder2/one
+rsync -avz folder1/one folder2
+head folder2/one
+clear
+touch folder1/oneB
+rsync -avz folder1/one folder2
+ll folder2
+touch folder2/three
+ll folder2
+ll folder1
+rsync -avz folder1 folder2
+ll folder1
+ll folder2
+rsync -avz folder1/ folder2
+ll folder1
+ll folder2
+rm -r folder2/folder1
+ll folder1
+ll folder2
+clear
+ls folder1
+ls folder2
+cd..
+cd
+cd git
+ll
+cp/home/dsc/.history history:20201117.txt
+ll
+/.history history:20201117.txt
+ls -a
+cp/home/dsc/.history history_20201117.txt
+cp /home/dsc/.history history_20201117.txt
+ls
+ls -l
+ls -a
+ls -l
+git status
+git add history_20201117.txt
+git commit -m "added my first file"
+pwd
+git push origin master
+ll
+git status
+history -i
+man history
+history -n 2
+history -n
+history -f
+cd..
+cd ..
+cd
+ls -l
+cd Data
+ls -l
+cd shell
+ll
+wc Text_example.txt
+head -n 8 Text_example.txt
+wc -w Text_example.txt
+wc -l Text_example.txt
+wc -m Text_example.txt
+clear
+echo "hola" | wc
+echo -n "hola" | wc
+cat Text_example.txt | wc
+cat Text_example.txt | wc-l
+cat Text_example.txt | wc -l
+wc -m Text_example.txt
+wc Text_example.txt
+tail -c -1k optd_aircraft.csv | wc
+tail -c -1k optd_aircraft.csv|wc
+ll
+cd Data
+cd Data/
+cd Data
+ll
+cd ..
+ll
+cd Data/shell
+cd Data/shell/
+cd /shell
+cd /shell/
+cd shell
+tail -c -1k optd_aircraft.csv|wc
+cd ..
+ll
+cd Data
+cd shell
+tail -c -1k optd_aircraft.csv|wc
+head -c -1k optd_aircraft.csv |wc
+ll
+cd 
+cd Data
+tail -c -1k optd_aircraft.csv|wc
+ll
+cd opentraveldata
+tail -c -1k optd_aircraft.csv|wc
+head -c -1k optd_aircraft.csv |wc
+cleatr
+clear
+cd
+cd ..
+cd
+cd ..
+ll
+cd
+ll
+cd Data
+ll
+cd opentraveldata
+ll
+ls
+ll
+ls -lrt
+ll 2
+ll -n 2
+head -n 2
+ls -lrt | tail -n 1
+ls -s | tail -n 1
+ls -sS | tail -n 1
+ls -ss
+ls -sSlr
+ls -sSl
+ls -s | tail -n 1
+ls -sSl | tail -n 1
+ls -sSl | tail -n 2
+ls -sSl
+ls -sSlr
+ls -sSlr | tail -n 1
+ls -sSlr | tail -n 1 > largest_file.txt
+cd Data/shell
+cd
+cd Data/shell
+ll
+cd Text_example.txt
+cat largest_file.txt
+cd
+cat largest_file.txt
+ls -sSlr | tail -n 1
+ls -sSlr | tail -n 1 > largest_file.txt
+ls -sSl
+cd Data/shell
+ll
+ls -sSlr | tail -n 1 
+head -n 5 Data/shell/Finn.txt | wc -w
+head -n 5 Data/shell/Finn.txt
+head Finn.txt
+head -n 5 Finn.txt | wc -w
+cd
+cat -n Data/shell/Finn.txt | head -n 3
+clear
+cd Data
+ll
+cd shell
+ll
+cp Text_example.txt 
+cp help
+cd  --help
+cp --help
+clear
+cp Text_file.txt Data/shell
+echo "Text_file.txt"
+cd
+cd git
+pwd
+ls -lrt
+cat home/dsc/git/.history|grep cp
+cat  /.history|grep cp
+ls
+ls -l
+cat homw/dsc/git/.history|grep cp
+cp $HISFILE history_20201117.txt
+ll
+cp home/dsc/git/.history history_20201117.txt
+cp /.history history_20201117.txt
+ll
+exit
+echo Hello World
+echo "Hello world"
+echo Hello; echo world
+echo "Hello; echo world"
+echo Hello; "echo world"
+echo $shell
+echo "$shell"
+echo date
+echo "date"
+echo 'date'
+echo $date
+echo $(date)
+echo $SHELL
+echo "hola hola $(date)"
+echo 'hola hola date'
+echo 'date'
+echo "date"
+echo `date`
+echo $date
+echo $(date)
+echo "date"
+echo 'this is\
+another'
+echo 'this is\ another'
+echo 'this is | another'
+echo "this is another"
+echo "this is \another"
+echo "this is \ another"
+echo "this is \n another"
+echo "this is \t another"
+echo this \; echo that
+echo "this \; echo that"
+cat /proc/cpuinfo
+cat -n /proc/cpuinfo
+cat /etc/os-release
+cat -n/etc/os-release
+cat -n /etc/os-release
+cd
+cd 
+cd Data
+ll
+cd Data/ 
+ll
+cd shellç
+cd shell
+ll
+cd ..
+ll
+cd shell
+cd ../
+cd
+cd Data/shell
+cd
+cd -
+cd
+cd -
+cd
+cd Data
+cd
+cd -
+bash
+pwd
+exit
+cd 
+pwd
+$SHELL
+cd 
+cd Data/
+cd shell
+l
+cd Fi
+exit
+exit
+cd Data/shell
+ll
+cat Text_example.txt
+cat -n
+cd Data/shell
+cat -nTex
+cat -n Text_example.txt
+cat Text_example.txt 
+cat -n Text_example.txt Text_example.txt
+cd
+cat -n Data/shell
+cat Data/
+cat ./Data
+cat /Data/shell
+cd Data
+ll
+cd
+cat Data/  
+cat Data/shell/
+cat Data/shell/Text_example.txt
+cat -n/ Data/shell/Text_example.txt
+cat -n /Data/shell/Text_example.txt
+cat ./Data/shell/Text_example.txt
+cat ~Data/shell/Text_example.txt
+cat ~/Data/shell/Text_example.txt
+cat ./Data/shell/Text_example.txt
+cd Data
+cat ./Data/shell/Text_example.txt
+cat ~Data/shell/Text_example.txt
+pwd
+cat /home/dsc/Data/shell/Text_example.txt
+cat-n /home/dsc/Data/shell/Text_example.txt
+cat -n /home/dsc/Data/shell/Text_example.txt
+clear
+echo "Hola mundo"
+echo "Hola mundo" > pp.txt
+ll
+head pp.txt
+echo "Hola mundo" >> pp.txt
+head pp.txt
+echo "Adios" > pp.txt
+head pp.txt
+echo "Hola mundo" >> pp.txt
+head pp.txt
+touch pp2.txt
+ll
+cat pp.txt
+cat pp2.txt
+head pp2.txt
+head pp.txt
+cp pp.txt >> pp2.txt
+ll
+pp.txt >> pp2.txt
+cat pp.txt
+cat pp2.txt
+echo "Hola feo" >> pp2.txt
+head pp2.txt
+cp pp.txt >> pp2.txt
+clear
+cd
+head pp2.txt
+cat pp2.txt
+cd Data
+head pp2.txt
+cd Data
+cat pp2.txt
+gedit pp3.txt
+ll
+cat pp3.txt
+cat -n pp3.txt
+clear
+cd
+echo $HISFILE
+echo $HISTFILE
+tail -n 5 /home/dsc/.history
+tail n 5 /home/dsc/.history
+ll
+ls -s
+ls -s ./history
+ls -s ~/history
+man
+ls -s
+ls -s /home/dsc/.history
+ls -s ~/.history
+ls -a
+ls -l
+ls -s ~/.history
+mkdir folder1
+ll
+cd folder1
+ll
+clear
+echo "firsto line" >> folder1/one
+cd
+echo "firsto line" >> folder1/one
+head folder1/one
+head folder2/one
+rsync -avz folder1/one folder2
+head folder2/one
+ll
+cd folder1
+ll
+cd ..
+cd folder2
+ll
+cd
+cd git
+ll
+cp ~/.history history_20201117.txt
+ll
+git status
+ll
+git status
+git add history_20201117.txt
+git status
+git commit -m "history of the say updated"
+git push origin master
+clear
+cd
+cd Data/shell
+ll
+cd ..
+ll
+cd opentraveldata
+ll
+ll -s
+ll -rlt
+ls -s
+ll -s
+la -S
+ls -S
+ll -S
+wc head 
+wc head optd_por_public.csv
+wc optd_por_public.csv
+ls -S optd_por_public.csv
+ll -S optd_por_public.csv
+ls -s optd_por_public.csv
+ll
+cd ..
+ll
+cd shell
+ll
+cat n 5/Finn.txt
+cat Finn.txt
+cat -n 5/Finn.txt
+cat -n 5 ~/Finn.txt
+head Finn.txt
+head n 5 Finn.txt
+cat Finn.txt
+head -n 5 Finn.txt
+tail -n 5 Finn.txt
+wc tail -n 5 Finn.txt
+wc -w tail -n 5 Finn.txt
+wc -c Finn.txt
+clear
+cd
+echo "Hola mundo"
+echo "Hola \nmundo"
+echo "Hola \tmundo"
+echo 'echo "Hola \nmundo"' > holamundo.sh
+ls -lrth | tail -n 1
+vim holamundo.sh
+ll
+bash holamundo.sh
+which bash
+bash holamundo.sh
+ll
+ls -lrth | tail -n 1
+chmod ]x holamundo.sh
+chmod  holamundo.sh
+chmod +x holamundo.sh
+ls -lrth
+ls -lrth holamundo.sh
+cat holamundo.sh
+vim holamundo.sh
+./holamundo.sh
+vim 001.sh
+git clone github.com/hxn241/Fantasticos.git
+git
+cd git
+git clone github.com/hxn241/Fantasticos.git
+cd 
+git clone github.com/hxn241/Fantasticos.git
+cd Data
+ll
+cd opentraveldata
+ll
+ls -lSr ~/Data/opentraveldata | tail -n 1 > 001.out
+ll
+vim 001.out
+ls -lSr
+cd Data
+ll
+cd shell
+ll
+head +n 5 | wc -w
+head +n 5 | wc -w Finn.txt
+cd
+cat -n example | head -n 3 > output
+cd fantastica
+ll
+git clone https://github.com/hxn241/Fantasticos.git
+cd Data
+ll
+cd shell
+ll
+cat Text_example.txt
+head +n 3 Text_example.txt
+head Text_example.txt
+cat -n 3 Text_example.txt
+head +n 5 Finn.txt
+head +n 5 Finn.txt | wc -w
+head -n 5 ~/Finn.txt | wc -w
+head -n 5 home/dsc/Data/shell/Finn.txt | wc -w
+head -n 5 /home/dsc/Data/shell/Finn.txt | wc -w >002.OUT
+ll
+cat 002.out
+wc -w 002.out
+wc -w 002.OUT
+wc002.OUT
+wc 002.OUT
+cat 002.OUT
+cat -n text_example.txt > 004.out
+ll
+cat -n text_example.txt > 004.OUT
+cat -n text_example.txt > 004.out
+cat -n Text_example.txt > 004.out
+cat 004.out
+echo "$(USER) $(date)";
+echo "$(USR) $(date)";
+echo "$(whoami) $(date)";
+echo $(whoami) $(date);
+echo $(whoami) $(date)
+echo "$(whoami) $(date)"
+echo "cuando tengas $ [$a+5], serÃ�s un gran Data Scientist";
+cd
+ls -lSr ~/Data/opentraveldata | tail -n 1  > 001.OUT
+cat ~/Data/opentraveldata/001.OUT
+cd Data
+ll
+cd opentraveldata
+ll
+cat 001.out
+exit
+ll
+rm 001.OUT
+ll
+rm pp2.txt
+rm pp3.txt
+rm pp.txt
+rm output
+ll
+cd Data
+cd shell
+ll
+rm 004.out
+rm 002.OUT
+rm 004.OUT
+ll
+cd Data
+cd ..
+ll
+cd opentraveldata
+ll
+ls -lrth
+ls -S
+ls -lS
+cat optd_por_public.csv
+cd optd_por_public.csv
+l
+ls -l
+ls -lS
+less -N 
+less -N ls -lS
+ls - lS
+ll
+ls -lS
+wc -w
+cd Data
+ll
+cd opentraveldata
+ll
+ls -lS
+ls -lS optd_por_public.csv
+cd ..
+ll
+rm pp2.txt
+rm pp3.txt
+rm pp.txt
+ll
+cd shell
+ll
+cat -n 5 Finn.txt
+cat -n 5/Finn.txt
+tail -n5/Finn.txt
+tail -n 5/Finn.txt
+tail -n 5 /Finn.txt
+tail -n 5 Finn.txt
+tail -n 5 Finn.txt | wc -w
+ll
+cat -n 3 Text_example.txt
+tail -n 3 Text_example.txt
+tail +n 3 Text_example.txt
+tail n 3 Text_example.txt
+tail -n +3 Text_example.txt
+cat Text_example.txt
+tail -n +3 Text_example.txt
+tail -n 3 Text_example.txt
+tail +n 3 Text_example.txt
+tail +n  Text_example.txt
+tail n 3  Text_example.txt
+tail n -3  Text_example.txt
+head n -3 Text_example.txt
+head -n 3 Text_example.txt
+cat -n Text_example.txt
+ll
+cd ..
+ll
+cd
+mkdir Fantasticos
+ll
+cd fantasticos
+cd Fantasticos
+ll
+cd
+cd Data
+ll
+cd opentraveldata
+ll
+ls -lS
+ls -lS optd_por_public.csv
+ls -lS optd_por_public.csv > ~/Fantasticos/001.out
+cd
+ll
+cd Fantasticos
+ll
+cat 001.out
+cd ..
+cd Data
+ll
+cd opentraveldata
+ll
+ls -lS
+head -n 1
+ls -lSr
+ls -lS
+ls -lS | head -n 1
+ls -lS ~/Data/opentraveldata | head -n 1
+ls -lS
+ls -l optd_por_public.csv
+ls -l ~/Data/optd_por_public.csv
+ls -l ~/Data/opentraveldata/optd_por_public.csv
+ls -l ~/Data/opentraveldata/optd_por_public.csv > ~/Fantasticos/001.out
+cd
+cd Fantasticos
+ll
+cat 001.out
+cd Data
+ll
+cd ..
+cd Data
+ll
+cd opentraveldata
+ll
+ls -l ~/Data/opentraveldata/optd_por_public.csv
+ls -l ~/Data/opentraveldata/optd_por_public.csv > 001.sh
+ll
+cat 001.sh
+bash 001.sh
+which bash
+ll
+chmod +x 001.sh
+ll
+bash 001.sh
+./001.sh
+ll
+bash 001.sh
+bash 001.out
+vim 001.sh
+ll
+cd Fantasticos
+ll
+cat 001.out
+chmod +x 001.out
+ll
+gedit 001.out
+cat 001.out
+cd ..
+cd Data
+ll
+cd opentraveldata
+ll
+cat 001.sh
+chmod +x 001.sh
+ll
+./001.sh
+gedit 001.sh
+cat 001.sh
+ll
+./001
+./001.sh
+cat 001.sh
+gedit 001.sh
+bash 001.sh
+ll
+cat 001.out
+mv 001.sh ~/Fantasticos
+ll
+cd
+ll
+cd Fantasticos
+ll
+cat 001.cat
+cat 001.out
+cat 001.sh
+mkdir Ejercicio1
+ll
+mv 001.out 001.sh ~/Fantasticos/Ejercicio1
+ll
+cd Ejercicio1
+ll
+cd
+cd Data
+cd Data/shell
+ll
+cd Data/shell
+cd shell
+l
+head -n 5 Finn.txt
+head -n 5 Finn.txt | wc -w
+head -n 5 Finn.txt | wc -w > 002.out
+ll
+cat 002.out
+head -n 5 Finn.txt
+head -n 5 ~/Data/shell/Finn.txt > 002.sh
+ll
+gedit 002.sh
+rm 002.sh
+ll
+cat 002.out
+head -n 5 ~/Data/shell/Finn.txt | wc -w > 002.out
+ll
+cat 002.out
+head -n 5 ~/Data/shell/Finn.txt | wc -w > 002.sh
+ll
+gedit 002.sh
+rm 002.sh
+ll
+cat 002.out
+gedit 002.out
+ll
+echo "head -n 5 ~/Data/shell/Finn.txt | wc -w"  > 002.sh
+ll
+gedit 002.sh
+ll
+chmod +x 002.sh
+ll
+./002.sh
+gedit 002.sh
+cat 002.sh
+bash 002.out
+cat 002.out
+bash 002.sh
+./002.sh
+./ 002.sh
+chmod +x 002.sh
+ll
+bash 002.sh
+ll
+./ 002.sh
+chmod +w 002.sh
+ll
+cat 002.out
+cat 002.sh
+mkdir ~/Fantasticos/Ejercicio2
+mv 002.sh 002.out ~/Fantasticos/Ejercicio2
+ll
+cd
+cd Fanyasticos
+cd Fantasticos
+ll
+cd Ejercicio2
+ll
+gedit 002.sh
+gedit 002.out
+cd
+cd Fantasticos
+ll
+cat README.md
+cd
+ll
+mkdir Practica
+ll
+cd Fantasticos
+ll
+mv Ejercicio1 Ejercicio2 ~/Practica
+ll
+cd
+cd Practica
+ll
+mkdir Ejercicio3
+ll
+mkdir Ejercicio4
+mkdir Ejercicio5
+mkdir Ejercicio6
+ll
+cd Ejercicio1
+ll
+cd ..
+cd Ejercicio2
+ll
+cd ..
+cd Ejercicio3
+ll
+cd 
+cd Data
+ll
+cd opentraveldata
+ll
+cd ..
+cd shell
+ll
+head -n 3 ~/Data/shell/Text_example.txt
+head -n 3 ~/Data/shell/Text_example.txt > 003.out
+ll
+cat 003.out
+gedit 003.out
+head -n 3 ~/Data/shell/Text_example.txt
+cat -n ~/Data/shell/Text_example.txt | head -n 3
+cat -n ~/Data/shell/Text_example.txt | head -n 3 > 003.out
+cat 003.out
+gedit 003.out
+cat -n ~/Data/shell/Text_example.txt | head -n 3
+echo "cat -n ~/Data/shell/Text_example.txt | head -n 3" > 003.sh
+gedit 003.sh
+ll
+./003.out
+chmod +x 003.out
+ll
+chmod +x 003.sh
+ll
+./003.sh
+ll
+cat 003.sh
+cat 003.out
+mv 003.sh 003.out ~/Practica/Ejercicio3
+cd
+cd Practica
+ll
+cd Ejercicio3
+ll
+cd
+cd Data
+ll
+cd shell
+ll
+cat Text_example.txt
+cat -n Text_example.txt
+cat Text_example.txt
+cat -n Text_example.txt > 004.out
+gedit 004.out
+echo "cat -n Text_example.txt > 004.out" > 004.sh
+ll
+chmod +x 004.sh
+ll
+./ 004.sh
+bash 004.sh
+ll
+gedit 004.sh
+./ 004.sh
+ll
+cat 004.sh
+rm 004.sh
+echo "cat -n ~/Data/shell/Text_example.txt > 004.out" > 004.sh
+ll
+gedit 004.sh
+ll
+chmod +x 004.sh
+ll
+./004.sh
+ll
+cat 004.out
+cat 004.sh
+mv 004.out 004.sh ~/Practica/Ejercicio4
+cd
+cd Practica
+ll
+cd Ejercicio4
+ll
+./004.sh
+bash 004.sh
+ll
+cat 004.sh
+./004.out
+chmod +x 004.out
+./004.out
+cat 004.sh
+cat 004.out
+cd
+echo $(date)
+echo $(user);echo $(date)
+echo $(usr)
+echo $USER ; echo $(date)
+echo "echo $USER ; echo $(date)"
+echo $USER echo $(date)
+echo $USER $(date)
+echo $USER $(date) > 005.out
+cat 005.out
+echo "echo $USER $(date) > 005.out" > 005.sh
+ll
+mv 005.out 005.sh ~/Practica/Ejercicio5
+ll
+cd Practica/Ejercicio5
+ll
+gedit 005.out
+gedit 005.sh
+rm 005.sh
+ll
+echo "echo $USER $(date)" > 005.sh
+gedit 005.sh
+echo $USER $(date) > 005.sh
+gedit 005.sh
+echo "echo $USER $(date) > 005.out" > 005.sh
+gedit 005.sh
+echo " $USER $(date)"  > 005.out" > 005.sh\
+gedit 005.sh\
+"
+ll
+rm 005.sh
+ll
+rm 005.out\ \>\ 005.sh$'\n'gedit\ 005.sh$'\n'
+ll
+cat 005.out
+gedit 005.sh
+ll
+cat 005.sh
+./ 005.sh
+chmod +x 005.sh
+ll
+./ 005.sh
+gedit 005.sh
+gedit 005.out
+ll
+cd ..
+cd Ejercicio6
+ll
+gedit 006.sh
+ll
+cat 006.sh
+./006.sh
+chmod +x 006.sh
+ll
+./ 006.sh
+bash 006.sh
+ll
+cat 006.out
+./006.sh
+cat 006.out
+cd ..
+ll
+cd Ejercicio1
+ll
+./001.sh
+cat 001.sh
+gedit 001.sh
+./ 001.sh
+chmod +x 001.sh
+ll
+./ 001.sh
+bash 001.sh
+gedit 001.sh
+cat 001.out
+bash 001.out
+gedit 001.out
+gedit 001.sh
+rm 001.sh
+rm 001.out
+ll
+cd 
+cd Data/opentraveldata
+ll
+ls -lS ~/Data/opentraveldata
+ls -lS ~/Data/opentraveldata | head -n 1
+ls -lS ~/Data/opentraveldata | head -n 1 2
+ls -lS ~/Data/opentraveldata | head -n 1
+ls -lSr ~/Data/opentraveldata | head -n 1
+ls -lSr ~/Data/opentraveldata
+ls -lSr ~/Data/opentraveldata | tail -n 1
+ls -lSr ~/Data/opentraveldata | tail -n 1 > ~/Practica/Ejercicio1/001.out
+cd
+cd Practica
+cd Ejercicio1
+ll
+cd
+cd Data
+cd opentraveldata
+ll
+cat 001.out
+echo "ls -lSr ~/Data/opentraveldata | tail -n 1 > 001.out" > 001.sh
+ll
+gedit 001.sh
+ll
+bash 001.sh
+./ 001.sh
+chmod +x 001.sh
+ll
+bash 001.sh
+gedit 001.sh
+bash 001.sh
+gedit 001.sh
+ll
+bash 001.sh
+mv 001.sh ~/Practica/Ejercicio1
+cd
+cd Practica
+cd Ejercicio1
+ll
+./ 001.sh
+bash 001.sh
+cat 001.out
+gedit 001.sh
+ll
+bash 001.sh
+cat 001.out
+gedit 001.out
+cd ..
+Ejercicio2
+ll
+cd Ejercicio2
+ll
+gedit 002.sh
+bash 002.sh
+cat 002.out
+cd..
+cd ..
+cd Ejercicio3
+ll
+gedit 003.sh
+bash 003.sh
+cat 003.out
+gedit 003.out
+ll
+cd ..
+cd Ejercicio4
+ll
+gedit 004.sh
+bash 004.sh
+cat 004.out
+cd ..
+cd Ejercicio5
+ll
+gedit 005.sh
+bash 005.sh
+cat 005.out
+cd ..
+cd Ejercicio6
+ll
+cat 006.out
+gedit 006.sh
+bash 006.sh
+cat 006.out
+cd ..
+ll
+cd
+pwd
+ll -a
+clear
+cd git
+ll
+cd ..
+ll
+clear
+pwd
+cd git
+ll
+cat README.md
+echo "# Ejercicios" >> README1.md
+ll
+cat README1.md
+git status
+git init
+ll
+git status
+git config --get user.name
+git config --get user.email
+pwd
+git add README1.md
+git commit -m "Second commit adding README1.md"
+git status
+git branch -M main
+git status
+git remote add origin https://github.com/alji81/Ejercicios.git
+git push -u origin main
+git push origin main
+clear
+ll
+rm README1.md
+ll
+cd
+echo $HISTFILE
+cd git
+cp ~/.history history_20201118.txt
+ll
+git status
+git add history_20201118.txt
+git commit -m "added 2nd hist.file" history_20201118.txt
+git push origin main
+git push origin master
+git add history_20201118.txt
+git commit -m "added 2nd hist.file" history_20201118.txt
+git push origin master
+git push origin main
+cd
+cd ..
+cd 
+$HISTFILE
+cd
+ll
+ll -a
+whereis .history
+ll
+ll -a
+cp ~/.history history_20201118.txt
+ll
+cd git
+ll
+cp ~/.history history_20201118.txt
+ll
+ls -l
+git status
+git add history_20201118.txt
+git commit -m "added"
+git status
+git push origin master
+git push origin main
+git push --help
+ll
+git add history_20201118.txt
+git commit -m "history_20201118.txt"
+git add history_20201118.txt
+git commit -m "added"
+git push origin master
+git push origin main
+clear
+ll
+git add history_20201118.txt
+git commit -m "added"
+git push origin main
+ll
+cd
+cd Practica
+cd Ejercicio1
+ll
+git add 001.out
+git commit -m "added"
+git push origin main
+git add 001.sh
+git commit -m "added"
+git push origin main
+cd ..
+cd Ejercicio2
+ll
+git add 002.sh
+git commit -m "added"
+git push origin main
+git add 002.out
+git commit -m "added"
+git push origin main
+cd ..
+git add Ejercicio3
+git commit -m "added"
+git push origin main
+git add Ejercicio4
+git commit -m "added"
+git push origin main
+cd ..
+git add Practica
+git commit -m "added"
+git push origin main
+ll
+cd Practica
+cd ..
+cd Practica
+ll
+cd ..
+rm Practica
+ll
+cd git
+ll
+git add history_20201118.txt
+git commit -m "added"
+git pull origin main
+ll
+cp ~/.history history_20201119.txt
+ll
+git add history_20201119.txt
+git commit -m "added"
+git push origin main
+alji81
+git push origin main
+cat README.md
+git status
+git commit -a
+cd git
+ll
+git add history_20201119.txt
+git statsu
+git status
+git branch
+git checkout master
+ll
+copy
+cp ~/.history history_20201119.txt
