@@ -1499,3 +1499,99 @@ git checkout master
 ll
 copy
 cp ~/.history history_20201119.txt
+ll
+git add history_20201119.txt
+git commit -m "added"
+git push origin main
+git add history_20201119.txt
+git status
+git commit -m "added"
+git status
+git pull origin main
+clear
+exit
+ll
+cd git
+ll
+git status
+git push origin main
+git push origin master
+cd ..
+ll
+cd git
+ll
+cd ..
+cd Practica
+ll
+gedit test_hacker.sh
+ll
+cd Practica
+ll
+echo "" > test_hacker.sh
+ll
+gedit test_hacker.sh
+bash test_hacker.sh
+ll
+bash test_hacker.sh
+ll
+gedit test_hacker.sh
+mkdir "first dir"
+ll
+echo "" > first dir/text_file.txt
+ll
+cd first dir
+cd firstdir
+cd first
+cd first_dir
+rm first\ dir
+cd first\ dir
+ll
+cd ..
+ll
+cd ref_repo
+ll
+cd fi
+cd ..
+cd first\ dir
+ll
+cd ..
+rm first
+ll
+rm first\ dir
+rm first dir
+rm -f first\ dir
+cd ..
+ll
+cd Practica
+ll
+rm first dir/
+rm first_dir/
+rm first_dir
+rm first\ dir
+cd..
+xs
+cd
+cd Fantasticos
+ll
+cd git
+git pull
+ll
+git status
+git branch test
+ll
+git checkout test
+git status
+git pull
+ll
+ll -a
+ls
+git pull origin test
+ll
+git pull origin test
+ll
+git pull origin test
+ll
+gedit test_hacker.sh
+cd
+cd git
+cp ~/.history history_20201119.txt
